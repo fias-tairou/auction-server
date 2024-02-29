@@ -6,7 +6,7 @@
       "age": 150,
       "active": true,
       "birthdate": "1874-05-15",
-      "image_url": "https://example.com/pocket_watch.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
       "condition": "Good",
       "hobbies": ["Collecting Antiques", "Horology"],
       "seller": {
@@ -24,7 +24,7 @@
       "age": 20,
       "active": true,
       "birthdate": "2004-10-10",
-      "image_url": "https://example.com/oil_painting.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
       "condition": "Excellent",
       "category": "Art",
       "seller": {
@@ -42,7 +42,7 @@
       "age": 40,
       "active": true,
       "birthdate": "1982-07-01",
-      "image_url": "https://example.com/vinyl_collection.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
       "condition": "Very Good",
       "hobbies": ["Music Enthusiast", "Collecting Vinyl Records"],
       "seller": {
@@ -60,7 +60,7 @@
       "age": 80,
       "active": true,
       "birthdate": "1940-03-20",
-      "image_url": "https://example.com/fountain_pen_set.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
       "condition": "Like New",
       "hobbies": ["Writing", "Collecting Fountain Pens"],
       "seller": {
@@ -78,7 +78,7 @@
       "age": 100,
       "active": true,
       "birthdate": "1924-11-30",
-      "image_url": "https://example.com/coin_collection.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
       "condition": "Excellent",
       "hobbies": ["Numismatics", "History Enthusiast"],
       "seller": {
@@ -96,7 +96,7 @@
       "age": 50,
       "active": true,
       "birthdate": "1974-09-05",
-      "image_url": "https://example.com/polaroid_camera.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/polaroid_camera.jpg",
       "condition": "Good",
       "hobbies": ["Photography", "Vintage Technology"],
       "seller": {
@@ -114,7 +114,7 @@
       "age": 10,
       "active": true,
       "birthdate": "2014-02-14",
-      "image_url": "https://example.com/artifact_replica.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
       "condition": "Very Good",
       "hobbies": ["Archaeology Enthusiast", "History Buff"],
       "seller": {
@@ -132,7 +132,7 @@
       "age": 70,
       "active": true,
       "birthdate": "1950-08-28",
-      "image_url": "https://example.com/typewriter.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/typewriter.jpg",
       "condition": "Good",
       "hobbies": ["Writing", "Collecting Vintage Items"],
       "seller": {
@@ -150,7 +150,7 @@
       "age": 80,
       "active": true,
       "birthdate": "1944-06-12",
-      "image_url": "https://example.com/book_collection.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/book_collection.jpg",
       "condition": "Excellent",
       "hobbies": ["Bibliophile", "Collecting Rare Books"],
       "seller": {
@@ -168,7 +168,7 @@
       "age": 60,
       "active": true,
       "birthdate": "1964-12-03",
-      "image_url": "https://example.com/chess_set.jpg",
+      "image_url": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/chess_set.jpg",
       "condition": "Very Good",
       "hobbies": ["Chess Enthusiast", "Collecting Board Games"],
       "seller": {
