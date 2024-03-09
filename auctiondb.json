@@ -1,0 +1,103 @@
+[
+  {
+    "eventId": 1001,
+    "eventName": "Antique Pocket Watch Auction",
+    "startDate": "2024-03-10T09:00:00",
+    "endDate": "2024-03-15T17:00:00",
+    "currentHighestBid": "$500",
+    "item": {
+      "_id": 1,
+      "name": "Antique Pocket Watch",
+      "description": "A rare find, this pocket watch dates back to the 19th century.",
+      "age": 150,
+      "active": true,
+      "birthdate": "1874-05-15",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
+      "condition": "Good",
+      "hobbies": [ "Collecting Antiques", "Horology" ],
+      "seller": {
+        "_id": 101,
+        "name": "Victoria Cunningham",
+        "isVerified": true,
+        "rating": 4.7,
+        "profilePictureUrl": "https://example.com/seller1.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1002,
+    "eventName": "Original Oil Painting Auction",
+    "startDate": "2024-03-12T10:00:00",
+    "endDate": "2024-03-18T18:00:00",
+    "currentHighestBid": "$1200",
+    "item": {
+      "_id": 2,
+      "name": "Original Oil Painting",
+      "description": "A breathtaking landscape masterpiece by a renowned artist.",
+      "age": 20,
+      "active": true,
+      "birthdate": "2004-10-10",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
+      "condition": "Excellent",
+      "category": "Art",
+      "seller": {
+        "_id": 102,
+        "name": "Francisco Rodriguez",
+        "isVerified": true,
+        "rating": 4.9,
+        "profilePictureUrl": "https://example.com/seller2.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1003,
+    "eventName": "Classic Vinyl Record Collection Auction",
+    "startDate": "2024-03-14T12:00:00",
+    "endDate": "2024-03-20T20:00:00",
+    "currentHighestBid": "$300",
+    "item": {
+      "_id": 3,
+      "name": "Classic Vinyl Record Collection",
+      "description": "A curated collection of vintage vinyl records spanning various genres.",
+      "age": 40,
+      "active": true,
+      "birthdate": "1982-07-01",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
+      "condition": "Very Good",
+      "hobbies": [ "Music Enthusiast", "Collecting Vinyl Records" ],
+      "seller": {
+        "_id": 103,
+        "name": "David Thompson",
+        "isVerified": true,
+        "rating": 4.6,
+        "profilePictureUrl": "https://example.com/seller3.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1004,
+    "eventName": "Vintage Fountain Pen Set Auction",
+    "startDate": "2024-03-16T09:00:00",
+    "endDate": "2024-03-22T17:00:00",
+    "currentHighestBid": "$250",
+    "item": {
+      "_id": 4,
+      "name": "Vintage Fountain Pen Set",
+      "description": "An elegant set of fountain pens crafted with precision.",
+      "age": 80,
+      "active": true,
+      "birthdate": "1940-03-20",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
+      "condition": "Like New",
+      "hobbies": [ "Writing", "Collecting Fountain Pens" ],
+      "seller": {
+        "_id": 104,
+        "name": "Emily Chang",
+        "isVerified": true,
+        "rating": 4.8,
+        "profilePictureUrl": "https://example.com/seller4.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1005
