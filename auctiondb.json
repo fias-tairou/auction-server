@@ -1,6 +1,6 @@
 [
   {
-    "eventId": 1001,
+    "eventId": 1067,
     "eventName": "Antique Pocket Watch Auction",
     "startDate": "2024-03-10T09:00:00",
     "endDate": "2024-03-15T17:00:00",
@@ -9,7 +9,7 @@
       "_id": 1,
       "name": "Antique Pocket Watch",
       "description": "A rare find, this pocket watch dates back to the 19th century.",
-      "age": 150,
+      "estimatedValue": "$2000",
       "active": true,
       "birthdate": "1874-05-15",
       "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
@@ -34,7 +34,7 @@
       "_id": 2,
       "name": "Original Oil Painting",
       "description": "A breathtaking landscape masterpiece by a renowned artist.",
-      "age": 20,
+      "estimatedValue": "$5000",
       "active": true,
       "birthdate": "2004-10-10",
       "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "eventId": 1003,
+    "eventId": 1075,
     "eventName": "Classic Vinyl Record Collection Auction",
     "startDate": "2024-03-14T12:00:00",
     "endDate": "2024-03-20T20:00:00",
@@ -59,7 +59,7 @@
       "_id": 3,
       "name": "Classic Vinyl Record Collection",
       "description": "A curated collection of vintage vinyl records spanning various genres.",
-      "age": 40,
+      "estimatedValue": "$1000",
       "active": true,
       "birthdate": "1982-07-01",
       "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "eventId": 1004,
+    "eventId": 1023,
     "eventName": "Vintage Fountain Pen Set Auction",
     "startDate": "2024-03-16T09:00:00",
     "endDate": "2024-03-22T17:00:00",
@@ -84,7 +84,7 @@
       "_id": 4,
       "name": "Vintage Fountain Pen Set",
       "description": "An elegant set of fountain pens crafted with precision.",
-      "age": 80,
+      "estimatedValue": "$800",
       "active": true,
       "birthdate": "1940-03-20",
       "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
@@ -100,4 +100,153 @@
     }
   },
   {
-    "eventId": 1005
+    "eventId": 1006,
+    "eventName": "Rare Coin Collection Auction",
+    "startDate": "2024-03-18T10:00:00",
+    "endDate": "2024-03-24T18:00:00",
+    "currentHighestBid": "$600",
+    "item": {
+      "_id": 5,
+      "name": "Rare Coin Collection",
+      "description": "A collection of rare coins from different historical periods.",
+      "estimatedValue": "$1500",
+      "active": true,
+      "birthdate": "1924-11-30",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+      "condition": "Excellent",
+      "hobbies": [ "Numismatics", "History Enthusiast" ],
+      "seller": {
+        "_id": 105,
+        "name": "Thomas Johnson",
+        "isVerified": true,
+        "rating": 4.7,
+        "profilePictureUrl": "https://example.com/seller5.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1028,
+    "eventName": "Vintage Polaroid Camera Auction",
+    "startDate": "2024-03-20T12:00:00",
+    "endDate": "2024-03-26T20:00:00",
+    "currentHighestBid": "$150",
+    "item": {
+      "_id": 6,
+      "name": "Vintage Polaroid Camera",
+      "description": "Capture memories with style using this classic Polaroid camera.",
+      "estimatedValue": "$400",
+      "active": true,
+      "birthdate": "1974-09-05",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/polaroid_camera.jpg",
+      "condition": "Good",
+      "hobbies": [ "Photography", "Vintage Technology" ],
+      "seller": {
+        "_id": 106,
+        "name": "Sophia Martinez",
+        "isVerified": true,
+        "rating": 4.5,
+        "profilePictureUrl": "https://example.com/seller6.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1051,
+    "eventName": "Ancient Artifact Replica Auction",
+    "startDate": "2024-03-22T09:00:00",
+    "endDate": "2024-03-28T17:00:00",
+    "currentHighestBid": "$400",
+    "item": {
+      "_id": 7,
+      "name": "Ancient Artifact Replica",
+      "description": "A meticulously crafted replica of an ancient artifact.",
+      "estimatedValue": "$300",
+      "active": true,
+      "birthdate": "2014-02-14",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
+      "condition": "Very Good",
+      "hobbies": [ "Archaeology Enthusiast", "History Buff" ],
+      "seller": {
+        "_id": 107,
+        "name": "Ethan Walker",
+        "isVerified": true,
+        "rating": 4.6,
+        "profilePictureUrl": "https://example.com/seller7.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1045,
+    "eventName": "Vintage Typewriter Auction",
+    "startDate": "2024-03-24T10:00:00",
+    "endDate": "2024-03-30T18:00:00",
+    "currentHighestBid": "$180",
+    "item": {
+      "_id": 8,
+      "name": "Vintage Typewriter",
+      "description": "Experience the nostalgia of typing on a vintage typewriter.",
+      "estimatedValue": "$600",
+      "active": true,
+      "birthdate": "1950-08-28",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/typewriter.jpg",
+      "condition": "Good",
+      "hobbies": [ "Writing", "Collecting Vintage Items" ],
+      "seller": {
+        "_id": 108,
+        "name": "Olivia Baker",
+        "isVerified": true,
+        "rating": 4.8,
+        "profilePictureUrl": "https://example.com/seller8.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1008,
+    "eventName": "Rare Book Collection Auction",
+    "startDate": "2024-03-26T12:00:00",
+    "endDate": "2024-04-01T20:00:00",
+    "currentHighestBid": "$900",
+    "item": {
+      "_id": 9,
+      "name": "Rare Book Collection",
+      "description": "A collection of rare and first edition books.",
+      "estimatedValue": "$2500",
+      "active": true,
+      "birthdate": "1944-06-12",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/book_collection.jpg",
+      "condition": "Excellent",
+      "hobbies": [ "Bibliophile", "Collecting Rare Books" ],
+      "seller": {
+        "_id": 109,
+        "name": "Matthew Turner",
+        "isVerified": true,
+        "rating": 4.9,
+        "profilePictureUrl": "https://example.com/seller9.jpg"
+      }
+    }
+  },
+  {
+    "eventId": 1012,
+    "eventName": "Vintage Chess Set Auction",
+    "startDate": "2024-03-28T09:00:00",
+    "endDate": "2024-04-03T17:00:00",
+    "currentHighestBid": "$350",
+    "item": {
+      "_id": 10,
+      "name": "Vintage Chess Set",
+      "description": "A classic chess set crafted from fine wood.",
+      "estimatedValue": "$1000",
+      "active": true,
+      "birthdate": "1964-12-03",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/chess_set.jpg",
+      "condition": "Very Good",
+      "hobbies": [ "Chess Enthusiast", "Collecting Board Games" ],
+      "seller": {
+        "_id": 110,
+        "name": "Emma White",
+        "isVerified": true,
+        "rating": 4.7,
+        "profilePictureUrl": "https://example.com/seller10.jpg"
+      }
+    }
+  }
+]
