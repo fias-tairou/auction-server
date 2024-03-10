@@ -12,7 +12,7 @@
       "estimatedValue": "€1665",
       "active": true,
       "birthdate": "1874-05-15",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/1e3c71afc0a707e1886e08421a377e0d707c1433/images/pocket_watch.jpg",
+      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/pocket_watch.jpg?raw=true",
       "condition": "Good",
       "hobbies": ["Collecting Antiques", "Horology"],
       "seller": {
@@ -187,7 +187,7 @@
       "estimatedValue": "€500",
       "active": true,
       "birthdate": "1890-08-20",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/parasol.jpg",
+      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/parasol.png?raw=true",
       "condition": "Excellent",
       "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
       "seller": {
@@ -212,7 +212,7 @@
       "estimatedValue": "€2500",
       "active": true,
       "birthdate": "1960-04-05",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/horological_timepiece.jpg",
+      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timepiece.png?raw=true",
       "condition": "Like New",
       "hobbies": ["Watch Collecting", "Horology Enthusiast"],
       "seller": {
