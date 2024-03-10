@@ -22,7 +22,8 @@
       "eventName": "Timeless Treasures Auction",
       "startDate": "2024-03-10T09:00:00",
       "endDate": "2024-03-15T17:00:00",
-      "description": "Experience the elegance of bygone eras with Victoria Cunningham, your gracious host, and her collection of timeless treasures."
+      "description": "Experience the elegance of bygone eras with Victoria Cunningham, your gracious host, and her collection of timeless treasures.",
+      "host": "Victoria Cunningham"
     }
   },
   {
@@ -48,7 +49,8 @@
       "eventName": "Majestic Canvas Auction",
       "startDate": "2024-03-12T10:00:00",
       "endDate": "2024-03-18T18:00:00",
-      "description": "Step into the world of artistic wonders with Francisco Rodriguez, your guide to majestic canvases and endless inspiration."
+      "description": "Step into the world of artistic wonders with Francisco Rodriguez, your guide to majestic canvases and endless inspiration.",
+      "host": "Francisco Rodriguez"
     }
   },
   {
@@ -74,7 +76,8 @@
       "eventName": "Vintage Vinyl Vibes Auction",
       "startDate": "2024-03-14T12:00:00",
       "endDate": "2024-03-20T20:00:00",
-      "description": "Join the rhythm of the past with David Thompson, your DJ for vintage vinyl vibes and unforgettable melodies."
+      "description": "Join the rhythm of the past with David Thompson, your DJ for vintage vinyl vibes and unforgettable melodies.",
+      "host": "David Thompson"
     }
   },
   {
@@ -100,7 +103,8 @@
       "eventName": "Scripted Elegance Auction",
       "startDate": "2024-03-16T09:00:00",
       "endDate": "2024-03-22T17:00:00",
-      "description": "Embark on a literary journey with Emily Chang, your muse for scripted elegance and poetic inspiration."
+      "description": "Embark on a literary journey with Emily Chang, your muse for scripted elegance and poetic inspiration.",
+      "host": "Emily Chang"
     }
   },
   {
@@ -126,7 +130,8 @@
       "eventName": "Numismatic Narratives Auction",
       "startDate": "2024-03-18T10:00:00",
       "endDate": "2024-03-24T18:00:00",
-      "description": "Travel through time with Thomas Johnson, your guide to numismatic narratives and historical treasures."
+      "description": "Travel through time with Thomas Johnson, your guide to numismatic narratives and historical treasures.",
+      "host": "Thomas Johnson"
     }
   },
   {
@@ -152,7 +157,8 @@
       "eventName": "Captured Memories Auction",
       "startDate": "2024-03-20T12:00:00",
       "endDate": "2024-03-26T20:00:00",
-      "description": "Preserve precious moments with Sophia Martinez, your curator of captured memories and nostalgic treasures."
+      "description": "Preserve precious moments with Sophia Martinez, your curator of captured memories and nostalgic treasures.",
+      "host": "Sophia Martinez"
     }
   },
   {
@@ -178,7 +184,8 @@
       "eventName": "Ancient Relics Rendezvous Auction",
       "startDate": "2024-03-22T09:00:00",
       "endDate": "2024-03-28T17:00:00",
-      "description": "Unravel the mysteries of the past with Ethan Walker, your guide to ancient relics and historical wonders."
+      "description": "Unravel the mysteries of the past with Ethan Walker, your guide to ancient relics and historical wonders.",
+      "host": "Ethan Walker"
     }
   },
   {
@@ -204,7 +211,8 @@
       "eventName": "Vintage Elegance Auction",
       "startDate": "2024-03-25T09:00:00",
       "endDate": "2024-03-30T17:00:00",
-      "description": "Step back in time with Isabella Thompson, your host of vintage elegance and timeless sophistication."
+      "description": "Step back in time with Isabella Thompson, your host of vintage elegance and timeless sophistication.",
+      "host": "Isabella Thompson"
     }
   },
   {
@@ -230,7 +238,8 @@
       "eventName": "Timeless Timepieces Auction",
       "startDate": "2024-03-28T10:00:00",
       "endDate": "2024-04-03T18:00:00",
-      "description": "Indulge in luxury with Robert Carter, your curator of timeless timepieces and horological marvels."
+      "description": "Indulge in luxury with Robert Carter, your curator of timeless timepieces and horological marvels.",
+      "host": "Robert Carter"
     }
   },
   {
@@ -256,7 +265,8 @@
       "eventName": "Numismatic Narratives Auction",
       "startDate": "2024-03-22T09:00:00",
       "endDate": "2024-03-28T17:00:00",
-      "description": "Embark on a journey through history with Margaret Wilson, your numismatic narrator and guardian of historical riches."
+      "description": "Embark on a journey through history with Margaret Wilson, your numismatic narrator and guardian of historical riches.",
+      "host": "Margaret Wilson"
     }
   }
 ]
