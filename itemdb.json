@@ -15,14 +15,14 @@
       "name": "Victoria Cunningham",
       "isVerified": true,
       "rating": 4.7,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 7621098453,
-        "eventName": "Timeless Treasures Auction",
-        "startDate": "2024-03-10T09:00:00",
-        "endDate": "2024-03-15T17:00:00",
-        "description": "Experience the elegance of bygone eras with Victoria Cunningham, your gracious host, and her collection of timeless treasures."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 7621098453,
+      "eventName": "Timeless Treasures Auction",
+      "startDate": "2024-03-10T09:00:00",
+      "endDate": "2024-03-15T17:00:00",
+      "description": "Experience the elegance of bygone eras with Victoria Cunningham, your gracious host, and her collection of timeless treasures."
     }
   },
   {
@@ -41,14 +41,14 @@
       "name": "Francisco Rodriguez",
       "isVerified": true,
       "rating": 4.9,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 8375906824,
-        "eventName": "Majestic Canvas Auction",
-        "startDate": "2024-03-12T10:00:00",
-        "endDate": "2024-03-18T18:00:00",
-        "description": "Step into the world of artistic wonders with Francisco Rodriguez, your guide to majestic canvases and endless inspiration."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 8375906824,
+      "eventName": "Majestic Canvas Auction",
+      "startDate": "2024-03-12T10:00:00",
+      "endDate": "2024-03-18T18:00:00",
+      "description": "Step into the world of artistic wonders with Francisco Rodriguez, your guide to majestic canvases and endless inspiration."
     }
   },
   {
@@ -67,14 +67,14 @@
       "name": "David Thompson",
       "isVerified": true,
       "rating": 4.6,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 9476182035,
-        "eventName": "Vintage Vinyl Vibes Auction",
-        "startDate": "2024-03-14T12:00:00",
-        "endDate": "2024-03-20T20:00:00",
-        "description": "Join the rhythm of the past with David Thompson, your DJ for vintage vinyl vibes and unforgettable melodies."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 9476182035,
+      "eventName": "Vintage Vinyl Vibes Auction",
+      "startDate": "2024-03-14T12:00:00",
+      "endDate": "2024-03-20T20:00:00",
+      "description": "Join the rhythm of the past with David Thompson, your DJ for vintage vinyl vibes and unforgettable melodies."
     }
   },
   {
@@ -93,14 +93,14 @@
       "name": "Emily Chang",
       "isVerified": true,
       "rating": 4.8,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 1765942830,
-        "eventName": "Scripted Elegance Auction",
-        "startDate": "2024-03-16T09:00:00",
-        "endDate": "2024-03-22T17:00:00",
-        "description": "Embark on a literary journey with Emily Chang, your muse for scripted elegance and poetic inspiration."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 1765942830,
+      "eventName": "Scripted Elegance Auction",
+      "startDate": "2024-03-16T09:00:00",
+      "endDate": "2024-03-22T17:00:00",
+      "description": "Embark on a literary journey with Emily Chang, your muse for scripted elegance and poetic inspiration."
     }
   },
   {
@@ -119,14 +119,14 @@
       "name": "Thomas Johnson",
       "isVerified": true,
       "rating": 4.7,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 2398456710,
-        "eventName": "Numismatic Narratives Auction",
-        "startDate": "2024-03-18T10:00:00",
-        "endDate": "2024-03-24T18:00:00",
-        "description": "Travel through time with Thomas Johnson, your guide to numismatic narratives and historical treasures."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 2398456710,
+      "eventName": "Numismatic Narratives Auction",
+      "startDate": "2024-03-18T10:00:00",
+      "endDate": "2024-03-24T18:00:00",
+      "description": "Travel through time with Thomas Johnson, your guide to numismatic narratives and historical treasures."
     }
   },
   {
@@ -145,14 +145,14 @@
       "name": "Sophia Martinez",
       "isVerified": true,
       "rating": 4.5,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 5701263948,
-        "eventName": "Captured Memories Auction",
-        "startDate": "2024-03-20T12:00:00",
-        "endDate": "2024-03-26T20:00:00",
-        "description": "Preserve precious moments with Sophia Martinez, your curator of captured memories and nostalgic treasures."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 5701263948,
+      "eventName": "Captured Memories Auction",
+      "startDate": "2024-03-20T12:00:00",
+      "endDate": "2024-03-26T20:00:00",
+      "description": "Preserve precious moments with Sophia Martinez, your curator of captured memories and nostalgic treasures."
     }
   },
   {
@@ -171,14 +171,14 @@
       "name": "Ethan Walker",
       "isVerified": true,
       "rating": 4.6,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 6825109347,
-        "eventName": "Ancient Relics Rendezvous Auction",
-        "startDate": "2024-03-22T09:00:00",
-        "endDate": "2024-03-28T17:00:00",
-        "description": "Unravel the mysteries of the past with Ethan Walker, your guide to ancient relics and historical wonders."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 6825109347,
+      "eventName": "Ancient Relics Rendezvous Auction",
+      "startDate": "2024-03-22T09:00:00",
+      "endDate": "2024-03-28T17:00:00",
+      "description": "Unravel the mysteries of the past with Ethan Walker, your guide to ancient relics and historical wonders."
     }
   },
   {
@@ -197,14 +197,14 @@
       "name": "Isabella Thompson",
       "isVerified": true,
       "rating": 4.8,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 7810293564,
-        "eventName": "Vintage Elegance Auction",
-        "startDate": "2024-03-25T09:00:00",
-        "endDate": "2024-03-30T17:00:00",
-        "description": "Step back in time with Isabella Thompson, your host of vintage elegance and timeless sophistication."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 7810293564,
+      "eventName": "Vintage Elegance Auction",
+      "startDate": "2024-03-25T09:00:00",
+      "endDate": "2024-03-30T17:00:00",
+      "description": "Step back in time with Isabella Thompson, your host of vintage elegance and timeless sophistication."
     }
   },
   {
@@ -223,14 +223,14 @@
       "name": "Robert Carter",
       "isVerified": true,
       "rating": 4.9,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 8923657190,
-        "eventName": "Timeless Timepieces Auction",
-        "startDate": "2024-03-28T10:00:00",
-        "endDate": "2024-04-03T18:00:00",
-        "description": "Indulge in luxury with Robert Carter, your curator of timeless timepieces and horological marvels."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 8923657190,
+      "eventName": "Timeless Timepieces Auction",
+      "startDate": "2024-03-28T10:00:00",
+      "endDate": "2024-04-03T18:00:00",
+      "description": "Indulge in luxury with Robert Carter, your curator of timeless timepieces and horological marvels."
     }
   },
   {
@@ -249,14 +249,14 @@
       "name": "Margaret Wilson",
       "isVerified": true,
       "rating": 4.7,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/",
-      "auction": {
-        "_id": 9536782410,
-        "eventName": "Numismatic Narratives Auction",
-        "startDate": "2024-03-22T09:00:00",
-        "endDate": "2024-03-28T17:00:00",
-        "description": "Embark on a journey through history with Margaret Wilson, your numismatic narrator and guardian of historical riches."
-      }
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 9536782410,
+      "eventName": "Numismatic Narratives Auction",
+      "startDate": "2024-03-22T09:00:00",
+      "endDate": "2024-03-28T17:00:00",
+      "description": "Embark on a journey through history with Margaret Wilson, your numismatic narrator and guardian of historical riches."
     }
   }
 ]
