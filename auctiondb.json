@@ -12,7 +12,7 @@
       "estimatedValue": "€1665",
       "active": true,
       "birthdate": "1874-05-15",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/1e3c71afc0a707e1886e08421a377e0d707c1433/images/pocket_watch.jpg",
       "condition": "Good",
       "hobbies": ["Collecting Antiques", "Horology"],
       "seller": {
