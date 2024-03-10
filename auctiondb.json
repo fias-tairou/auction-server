@@ -1,12 +1,12 @@
 [
   {
-    "eventId": 1067,
-    "eventName": "Antique Pocket Watch Auction",
+    "_id": 7621098453,
+    "eventName": "Timeless Treasures Auction",
     "startDate": "2024-03-10T09:00:00",
     "endDate": "2024-03-15T17:00:00",
     "currentHighestBid": "€500",
     "item": {
-      "_id": 1,
+      "_id": 275346,
       "name": "Antique Pocket Watch",
       "description": "A rare find, this pocket watch dates back to the 19th century.",
       "estimatedValue": "€1665",
@@ -16,7 +16,7 @@
       "condition": "Good",
       "hobbies": ["Collecting Antiques", "Horology"],
       "seller": {
-        "_id": 101,
+        "_id": 168730,
         "name": "Victoria Cunningham",
         "isVerified": true,
         "rating": 4.7,
@@ -25,13 +25,13 @@
     }
   },
   {
-    "eventId": 1002,
-    "eventName": "Original Oil Painting Auction",
+    "_id": 8375906824,
+    "eventName": "Majestic Canvas Auction",
     "startDate": "2024-03-12T10:00:00",
     "endDate": "2024-03-18T18:00:00",
     "currentHighestBid": "€1200",
     "item": {
-      "_id": 2,
+      "_id": 386451,
       "name": "Original Oil Painting",
       "description": "A breathtaking landscape masterpiece by a renowned artist.",
       "estimatedValue": "€4165",
@@ -41,7 +41,7 @@
       "condition": "Excellent",
       "category": "Art",
       "seller": {
-        "_id": 102,
+        "_id": 934786,
         "name": "Francisco Rodriguez",
         "isVerified": true,
         "rating": 4.9,
@@ -50,13 +50,13 @@
     }
   },
   {
-    "eventId": 1075,
-    "eventName": "Classic Vinyl Record Collection Auction",
+    "_id": 9476182035,
+    "eventName": "Vintage Vinyl Vibes Auction",
     "startDate": "2024-03-14T12:00:00",
     "endDate": "2024-03-20T20:00:00",
     "currentHighestBid": "€300",
     "item": {
-      "_id": 3,
+      "_id": 543267,
       "name": "Classic Vinyl Record Collection",
       "description": "A curated collection of vintage vinyl records spanning various genres.",
       "estimatedValue": "€833",
@@ -66,7 +66,7 @@
       "condition": "Very Good",
       "hobbies": ["Music Enthusiast", "Collecting Vinyl Records"],
       "seller": {
-        "_id": 103,
+        "_id": 365219,
         "name": "David Thompson",
         "isVerified": true,
         "rating": 4.6,
@@ -75,13 +75,13 @@
     }
   },
   {
-    "eventId": 1023,
-    "eventName": "Vintage Fountain Pen Set Auction",
+    "_id": 1765942830,
+    "eventName": "Scripted Elegance Auction",
     "startDate": "2024-03-16T09:00:00",
     "endDate": "2024-03-22T17:00:00",
     "currentHighestBid": "€250",
     "item": {
-      "_id": 4,
+      "_id": 123589,
       "name": "Vintage Fountain Pen Set",
       "description": "An elegant set of fountain pens crafted with precision.",
       "estimatedValue": "€666",
@@ -91,7 +91,7 @@
       "condition": "Like New",
       "hobbies": ["Writing", "Collecting Fountain Pens"],
       "seller": {
-        "_id": 104,
+        "_id": 189743,
         "name": "Emily Chang",
         "isVerified": true,
         "rating": 4.8,
@@ -100,13 +100,13 @@
     }
   },
   {
-    "eventId": 1006,
-    "eventName": "Rare Coin Collection Auction",
+    "_id": 2398456710,
+    "eventName": "Numismatic Narratives Auction",
     "startDate": "2024-03-18T10:00:00",
     "endDate": "2024-03-24T18:00:00",
     "currentHighestBid": "€600",
     "item": {
-      "_id": 5,
+      "_id": 543729,
       "name": "Rare Coin Collection",
       "description": "A collection of rare coins from different historical periods.",
       "estimatedValue": "€1250",
@@ -116,7 +116,7 @@
       "condition": "Excellent",
       "hobbies": ["Numismatics", "History Enthusiast"],
       "seller": {
-        "_id": 105,
+        "_id": 894752,
         "name": "Thomas Johnson",
         "isVerified": true,
         "rating": 4.7,
@@ -125,13 +125,13 @@
     }
   },
   {
-    "eventId": 1028,
-    "eventName": "Vintage Polaroid Camera Auction",
+    "_id": 5701263948,
+    "eventName": "Captured Memories Auction",
     "startDate": "2024-03-20T12:00:00",
     "endDate": "2024-03-26T20:00:00",
     "currentHighestBid": "€150",
     "item": {
-      "_id": 6,
+      "_id": 362891,
       "name": "Vintage Polaroid Camera",
       "description": "Capture memories with style using this classic Polaroid camera.",
       "estimatedValue": "€333",
@@ -141,7 +141,7 @@
       "condition": "Good",
       "hobbies": ["Photography", "Vintage Technology"],
       "seller": {
-        "_id": 106,
+        "_id": 975362,
         "name": "Sophia Martinez",
         "isVerified": true,
         "rating": 4.5,
@@ -150,13 +150,13 @@
     }
   },
   {
-    "eventId": 1051,
-    "eventName": "Ancient Artifact Replica Auction",
+    "_id": 6825109347,
+    "eventName": "Ancient Relics Rendezvous Auction",
     "startDate": "2024-03-22T09:00:00",
     "endDate": "2024-03-28T17:00:00",
     "currentHighestBid": "€400",
     "item": {
-      "_id": 7,
+      "_id": 297564,
       "name": "Ancient Artifact Replica",
       "description": "A meticulously crafted replica of an ancient artifact.",
       "estimatedValue": "€250",
@@ -166,10 +166,85 @@
       "condition": "Very Good",
       "hobbies": ["Archaeology Enthusiast", "History Buff"],
       "seller": {
-        "_id": 107,
+        "_id": 578924,
         "name": "Ethan Walker",
         "isVerified": true,
         "rating": 4.6,
+        "profilePictureUrl": "https://thispersondoesnotexist.com/"
+      }
+    }
+  },
+  {
+    "_id": 7810293564,
+    "eventName": "Vintage Elegance Auction",
+    "startDate": "2024-03-25T09:00:00",
+    "endDate": "2024-03-30T17:00:00",
+    "currentHighestBid": "€800",
+    "item": {
+      "_id": 832541,
+      "name": "Victorian Lace Parasol",
+      "description": "An exquisite Victorian lace parasol, perfect for vintage fashion enthusiasts.",
+      "estimatedValue": "€500",
+      "active": true,
+      "birthdate": "1890-08-20",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/parasol.jpg",
+      "condition": "Excellent",
+      "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
+      "seller": {
+        "_id": 378924,
+        "name": "Isabella Thompson",
+        "isVerified": true,
+        "rating": 4.8,
+        "profilePictureUrl": "https://thispersondoesnotexist.com/"
+      }
+    }
+  },
+  {
+    "_id": 8923657190,
+    "eventName": "Timeless Timepieces Auction",
+    "startDate": "2024-03-28T10:00:00",
+    "endDate": "2024-04-03T18:00:00",
+    "currentHighestBid": "€1200",
+    "item": {
+      "_id": 492657,
+      "name": "Rare Horological Timepiece",
+      "description": "A rare and exquisite timepiece from a renowned watchmaker, a true gem for watch collectors.",
+      "estimatedValue": "€2500",
+      "active": true,
+      "birthdate": "1960-04-05",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/horological_timepiece.jpg",
+      "condition": "Like New",
+      "hobbies": ["Watch Collecting", "Horology Enthusiast"],
+      "seller": {
+        "_id": 693158,
+        "name": "Robert Carter",
+        "isVerified": true,
+        "rating": 4.9,
+        "profilePictureUrl": "https://thispersondoesnotexist.com/"
+      }
+    }
+  },
+  {
+    "_id": 9536782410,
+    "eventName": "Numismatic Narratives Auction",
+    "startDate": "2024-03-22T09:00:00",
+    "endDate": "2024-03-28T17:00:00",
+    "currentHighestBid": "€400",
+    "item": {
+      "_id": 893152,
+      "name": "Rare Coin Collection",
+      "description": "A collection of rare coins from different historical periods.",
+      "estimatedValue": "€1250",
+      "active": true,
+      "birthdate": "1850-11-30",
+      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+      "condition": "Excellent",
+      "hobbies": ["Numismatics", "History Enthusiast"],
+      "seller": {
+        "_id": 159843,
+        "name": "Margaret Wilson",
+        "isVerified": true,
+        "rating": 4.7,
         "profilePictureUrl": "https://thispersondoesnotexist.com/"
       }
     }
