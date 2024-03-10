@@ -7,7 +7,7 @@
     "currentHighestBid": "€500",
     "active": true,
     "birthdate": "1874-05-15",
-    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/pocket_watch.jpg?raw=true",
     "condition": "Good",
     "hobbies": ["Collecting Antiques", "Horology"],
     "seller": {
@@ -146,127 +146,127 @@
     "condition": "Good",
     "hobbies": ["Photography", "Vintage Technology"],
     "seller": {
-      "_id": 975362,
-      "name": "Sophia Martinez",
+      "_id": 657821,
+      "name": "Michael Anderson",
       "isVerified": true,
       "rating": 4.5,
       "profilePictureUrl": "https://thispersondoesnotexist.com/"
     },
     "auction": {
-      "_id": 5701263948,
-      "eventName": "Captured Memories Auction",
+      "_id": 5089312764,
+      "eventName": "Vintage Memories Auction",
       "startDate": "2024-03-20T12:00:00",
       "endDate": "2024-03-26T20:00:00",
-      "description": "Preserve precious moments with Sophia Martinez, your curator of captured memories and nostalgic treasures.",
-      "host": "Sophia Martinez"
+      "description": "Capture timeless moments with Michael Anderson, your photographer for vintage memories and nostalgic treasures.",
+      "host": "Michael Anderson"
     }
   },
   {
-    "_id": 297564,
-    "name": "Ancient Artifact Replica",
-    "description": "A meticulously crafted replica of an ancient artifact.",
-    "estimatedValue": "€250",
-    "currentHighestBid": "€400",
-    "active": true,
-    "birthdate": "2014-02-14",
-    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
-    "condition": "Very Good",
-    "hobbies": ["Archaeology Enthusiast", "History Buff"],
-    "seller": {
-      "_id": 578924,
-      "name": "Ethan Walker",
-      "isVerified": true,
-      "rating": 4.6,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/"
-    },
-    "auction": {
-      "_id": 6825109347,
-      "eventName": "Ancient Relics Rendezvous Auction",
-      "startDate": "2024-03-22T09:00:00",
-      "endDate": "2024-03-28T17:00:00",
-      "description": "Unravel the mysteries of the past with Ethan Walker, your guide to ancient relics and historical wonders.",
-      "host": "Ethan Walker"
-    }
-  },
-  {
-    "_id": 832541,
-    "name": "Victorian Lace Parasol",
-    "description": "An exquisite Victorian lace parasol, perfect for vintage fashion enthusiasts.",
-    "estimatedValue": "€500",
+    "_id": 285416,
+    "name": "Rare Book Collection",
+    "description": "A collection of rare and first-edition books from various genres.",
+    "estimatedValue": "€2500",
     "currentHighestBid": "€800",
     "active": true,
-    "birthdate": "1890-08-20",
-    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/parasol.jpg",
-    "condition": "Excellent",
-    "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
+    "birthdate": "1902-12-18",
+    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/book_collection.jpg",
+    "condition": "Very Good",
+    "hobbies": ["Bibliophile", "Literature Enthusiast"],
     "seller": {
-      "_id": 378924,
-      "name": "Isabella Thompson",
-      "isVerified": true,
-      "rating": 4.8,
-      "profilePictureUrl": "https://thispersondoesnotexist.com/"
-    },
-    "auction": {
-      "_id": 7810293564,
-      "eventName": "Vintage Elegance Auction",
-      "startDate": "2024-03-25T09:00:00",
-      "endDate": "2024-03-30T17:00:00",
-      "description": "Step back in time with Isabella Thompson, your host of vintage elegance and timeless sophistication.",
-      "host": "Isabella Thompson"
-    }
-  },
-  {
-    "_id": 492657,
-    "name": "Rare Horological Timepiece",
-    "description": "A rare and exquisite timepiece from a renowned watchmaker, a true gem for watch collectors.",
-    "estimatedValue": "€2500",
-    "currentHighestBid": "€1200",
-    "active": true,
-    "birthdate": "1960-04-05",
-    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/horological_timepiece.jpg",
-    "condition": "Like New",
-    "hobbies": ["Watch Collecting", "Horology Enthusiast"],
-    "seller": {
-      "_id": 693158,
-      "name": "Robert Carter",
+      "_id": 365209,
+      "name": "Olivia Stewart",
       "isVerified": true,
       "rating": 4.9,
       "profilePictureUrl": "https://thispersondoesnotexist.com/"
     },
     "auction": {
-      "_id": 8923657190,
-      "eventName": "Timeless Timepieces Auction",
-      "startDate": "2024-03-28T10:00:00",
-      "endDate": "2024-04-03T18:00:00",
-      "description": "Indulge in luxury with Robert Carter, your curator of timeless timepieces and horological marvels.",
-      "host": "Robert Carter"
+      "_id": 7345829017,
+      "eventName": "Literary Treasures Auction",
+      "startDate": "2024-03-22T09:00:00",
+      "endDate": "2024-03-28T17:00:00",
+      "description": "Embark on a literary journey with Olivia Stewart, your curator for literary treasures and rare manuscripts.",
+      "host": "Olivia Stewart"
     }
   },
   {
-    "_id": 893152,
-    "name": "Rare Coin Collection",
-    "description": "A collection of rare coins from different historical periods.",
-    "estimatedValue": "€1250",
-    "currentHighestBid": "€400",
+    "_id": 953281,
+    "name": "Vintage Chess Set",
+    "description": "A beautifully crafted vintage chess set made of fine wood.",
+    "estimatedValue": "€500",
+    "currentHighestBid": "€200",
     "active": true,
-    "birthdate": "1850-11-30",
-    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+    "birthdate": "1968-08-25",
+    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/chess_set.jpg",
     "condition": "Excellent",
-    "hobbies": ["Numismatics", "History Enthusiast"],
+    "hobbies": ["Chess Enthusiast", "Collecting Board Games"],
     "seller": {
-      "_id": 159843,
-      "name": "Margaret Wilson",
+      "_id": 123587,
+      "name": "Sophia Ramirez",
+      "isVerified": true,
+      "rating": 4.6,
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 3198476521,
+      "eventName": "Strategic Moves Auction",
+      "startDate": "2024-03-24T10:00:00",
+      "endDate": "2024-03-30T18:00:00",
+      "description": "Plan your next move with Sophia Ramirez, your strategist for vintage chess sets and strategic board games.",
+      "host": "Sophia Ramirez"
+    }
+  },
+  {
+    "_id": 189534,
+    "name": "Vintage Typewriter",
+    "description": "A classic typewriter that evokes nostalgia for a bygone era.",
+    "estimatedValue": "€400",
+    "currentHighestBid": "€150",
+    "active": true,
+    "birthdate": "1955-04-30",
+    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/typewriter.jpg",
+    "condition": "Good",
+    "hobbies": ["Writing", "Vintage Technology"],
+    "seller": {
+      "_id": 678345,
+      "name": "Ethan Thompson",
       "isVerified": true,
       "rating": 4.7,
       "profilePictureUrl": "https://thispersondoesnotexist.com/"
     },
     "auction": {
-      "_id": 9536782410,
-      "eventName": "Numismatic Narratives Auction",
-      "startDate": "2024-03-22T09:00:00",
-      "endDate": "2024-03-28T17:00:00",
-      "description": "Embark on a journey through history with Margaret Wilson, your numismatic narrator and guardian of historical riches.",
-      "host": "Margaret Wilson"
+      "_id": 8520463719,
+      "eventName": "Nostalgic Typewriting Auction",
+      "startDate": "2024-03-26T12:00:00",
+      "endDate": "2024-04-01T20:00:00",
+      "description": "Rediscover the joy of typewriting with Ethan Thompson, your guide to nostalgic typewriters and vintage writing instruments.",
+      "host": "Ethan Thompson"
+    }
+  },
+  {
+    "_id": 693458,
+    "name": "Vintage Globe",
+    "description": "Explore the world with this beautifully crafted vintage globe.",
+    "estimatedValue": "€300",
+    "currentHighestBid": "€100",
+    "active": true,
+    "birthdate": "1950-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/globe.jpg",
+    "condition": "Good",
+    "hobbies": ["Geography Enthusiast", "Collecting Antiques"],
+    "seller": {
+      "_id": 975318,
+      "name": "Sophie Walker",
+      "isVerified": true,
+      "rating": 4.8,
+      "profilePictureUrl": "https://thispersondoesnotexist.com/"
+    },
+    "auction": {
+      "_id": 4756931825,
+      "eventName": "Worldly Wonders Auction",
+      "startDate": "2024-03-28T09:00:00",
+      "endDate": "2024-04-03T17:00:00",
+      "description": "Embark on a journey around the world with Sophie Walker, your guide to worldly wonders and vintage cartography.",
+      "host": "Sophie Walker"
     }
   }
 ]
