@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Victoria Cunningham",
+    "is_verified": true,
+    "rating": 4.7,
+    "profile_picture_url": "https://example.com/seller1.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Francisco Rodriguez",
+    "is_verified": true,
+    "rating": 4.9,
+    "profile_picture_url": "https://example.com/seller2.jpg"
+  },
+  {
+    "id": 103,
+    "name": "David Thompson",
+    "is_verified": true,
+    "rating": 4.6,
+    "profile_picture_url": "https://example.com/seller3.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Emily Chang",
+    "is_verified": true,
+    "rating": 4.8,
+    "profile_picture_url": "https://example.com/seller4.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Thomas Johnson",
+    "is_verified": true,
+    "rating": 4.7,
+    "profile_picture_url": "https://example.com/seller5.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Sophia Martinez",
+    "is_verified": true,
+    "rating": 4.5,
+    "profile_picture_url": "https://example.com/seller6.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Ethan Walker",
+    "is_verified": true,
+    "rating": 4.6,
+    "profile_picture_url": "https://example.com/seller7.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Olivia Baker",
+    "is_verified": true,
+    "rating": 4.8,
+    "profile_picture_url": "https://example.com/seller8.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Matthew Turner",
+    "is_verified": true,
+    "rating": 4.9,
+    "profile_picture_url": "https://example.com/seller9.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Emma White",
+    "is_verified": true,
+    "rating": 4.7,
+    "profile_picture_url": "https://example.com/seller10.jpg"
+  }
+]
