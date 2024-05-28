@@ -1,271 +1,241 @@
 [
-  {
-    "_id": 7621098453,
-    "eventName": "Timeless Treasures Auction",
-    "startDate": "2024-03-10T09:00:00",
-    "endDate": "2024-03-15T17:00:00",
-    "currentHighestBid": "€500",
-    "imageUrl": "https://picsum.photos/200/300",
-    "description": "An exclusive event for collectors and horology enthusiasts, featuring rare and valuable antiques.",
-    "item": {
-      "_id": 275346,
-      "name": "Antique Pocket Watch",
-      "description": "A rare find, this pocket watch dates back to the 19th century.",
-      "estimatedValue": "€1665",
-      "active": true,
-      "birthdate": "1874-05-15",
-      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/pocket_watch.jpg?raw=true",
-      "condition": "Good",
-      "hobbies": ["Collecting Antiques", "Horology"],
-      "seller": {
-        "_id": 168730,
-        "name": "Victoria Cunningham",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 8375906824,
-    "eventName": "Majestic Canvas Auction",
-    "startDate": "2024-03-12T10:00:00",
-    "endDate": "2024-03-18T18:00:00",
-    "currentHighestBid": "€1200",
-    "imageUrl": "https://picsum.photos/200/300",
-    "description": "A must-attend for art lovers and collectors, showcasing breathtaking masterpieces and original artworks.",
-    "item": {
-      "_id": 386451,
-      "name": "Original Oil Painting",
-      "description": "A breathtaking landscape masterpiece by a renowned artist.",
-      "estimatedValue": "€4165",
-      "active": true,
-      "birthdate": "2004-10-10",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
-      "condition": "Excellent",
-      "category": "Art",
-      "seller": {
-        "_id": 934786,
-        "name": "Francisco Rodriguez",
-        "isVerified": true,
-        "rating": 4.9,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 9476182035,
-    "eventName": "Vintage Vinyl Vibes Auction",
-    "startDate": "2024-03-14T12:00:00",
-    "endDate": "2024-03-20T20:00:00",
-    "currentHighestBid": "€300",
-    "imageUrl": "https://picsum.photos/200/300",
-    "description": "A unique event for music enthusiasts and collectors of vintage vinyl records.",
-    "item": {
-      "_id": 543267,
-      "name": "Classic Vinyl Record Collection",
-      "description": "A curated collection of vintage vinyl records spanning various genres.",
-      "estimatedValue": "€833",
-      "active": true,
-      "birthdate": "1982-07-01",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
-      "condition": "Very Good",
-      "hobbies": ["Music Enthusiast", "Collecting Vinyl Records"],
-      "seller": {
-        "_id": 365219,
-        "name": "David Thompson",
-        "isVerified": true,
-        "rating": 4.6,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 1765942830,
-    "eventName": "Scripted Elegance Auction",
-    "startDate": "2024-03-16T09:00:00",
-    "endDate": "2024-03-22T17:00:00",
-    "currentHighestBid": "€250",
-    "imageUrl": "https://picsum.photos/200/300",
-    "description": "An auction dedicated to those who appreciate the art of writing and collect vintage fountain pens.",
-    "item": {
-      "_id": 123589,
-      "name": "Vintage Fountain Pen Set",
-      "description": "An elegant set of fountain pens crafted with precision.",
-      "estimatedValue": "€666",
-      "active": true,
-      "birthdate": "1940-03-20",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
-      "condition": "Like New",
-      "hobbies": ["Writing", "Collecting Fountain Pens"],
-      "seller": {
-        "_id": 189743,
-        "name": "Emily Chang",
-        "isVerified": true,
-        "rating": 4.8,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 2398456710,
-    "eventName": "Numismatic Narratives Auction",
-    "startDate": "2024-03-18T10:00:00",
-    "endDate": "2024-03-24T18:00:00",
-    "currentHighestBid": "€600",
-    "imageUrl": "https://picsum.photos/200/300",
-    "description": "Explore and bid on a remarkable collection for numismatics and history enthusiasts.",
-    "item": {
-      "_id": 543729,
-      "name": "Rare Coin Collection",
-      "description": "A collection of rare coins from different historical periods.",
-      "estimatedValue": "€1250",
-      "active": true,
-      "birthdate": "1924-11-30",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
-      "condition": "Excellent",
-      "hobbies": ["Numismatics", "History Enthusiast"],
-      "seller": {
-        "_id": 894752,
-        "name": "Thomas Johnson",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 5701263948,
-    "eventName": "Captured Memories Auction",
-    "startDate": "2024-03-20T12:00:00",
-    "endDate": "2024-03-26T20:00:00",
-    "currentHighestBid": "€150",
-    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/captured_memories_auction.jpg?raw=true",
-    "description": "Dive into the nostalgia of vintage photography with this captivating auction, perfect for photography enthusiasts and collectors of vintage technology.",
-    "item": {
-      "_id": 362891,
-      "name": "Vintage Polaroid Camera",
-      "description": "Capture memories with style using this classic Polaroid camera.",
-      "estimatedValue": "€333",
-      "active": true,
-      "birthdate": "1974-09-05",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/polaroid_camera.jpg",
-      "condition": "Good",
-      "hobbies": ["Photography", "Vintage Technology"],
-      "seller": {
-        "_id": 975362,
-        "name": "Sophia Martinez",
-        "isVerified": true,
-        "rating": 4.5,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 6825109347,
-    "eventName": "Ancient Relics Rendezvous Auction",
-    "startDate": "2024-03-22T09:00:00",
-    "endDate": "2024-03-28T17:00:00",
-    "currentHighestBid": "€400",
-    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
-    "description": "Embark on a journey through time and history with this auction, tailored for archaeology enthusiasts and history buffs.",
-    "item": {
-      "_id": 297564,
-      "name": "Ancient Artifact Replica",
-      "description": "A meticulously crafted replica of an ancient artifact.",
-      "estimatedValue": "€250",
-      "active": true,
-      "birthdate": "2014-02-14",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
-      "condition": "Very Good",
-      "hobbies": ["Archaeology Enthusiast", "History Buff"],
-      "seller": {
-        "_id": 578924,
-        "name": "Ethan Walker",
-        "isVerified": true,
-        "rating": 4.6,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 7810293564,
-    "eventName": "Vintage Elegance Auction",
-    "startDate": "2024-03-25T09:00:00",
-    "endDate": "2024-03-30T17:00:00",
-    "currentHighestBid": "€800",
-    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/vintage_elegance_auction.jpg?raw=true",
-    "description": "Step into the world of vintage fashion and historical reenactment with this elegant auction, featuring exquisite Victorian lace parasols.",
-    "item": {
-      "_id": 832541,
-      "name": "Victorian Lace Parasol",
-      "description": "An exquisite Victorian lace parasol, perfect for vintage fashion enthusiasts.",
-      "estimatedValue": "€500",
-      "active": true,
-      "birthdate": "1890-08-20",
-      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/parasol.png?raw=true",
-      "condition": "Excellent",
-      "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
-      "seller": {
-        "_id": 378924,
-        "name": "Isabella Thompson",
-        "isVerified": true,
-        "rating": 4.8,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 8923657190,
-    "eventName": "Timeless Timepieces Auction",
-    "startDate": "2024-03-28T10:00:00",
-    "endDate": "2024-04-03T18:00:00",
-    "currentHighestBid": "€1200",
-    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timeless_timepieces_auction.jpg?raw=true",
-    "description": "Discover timeless elegance and precision craftsmanship in this auction, tailored for watch collectors and horology enthusiasts.",
-    "item": {
-      "_id": 492657,
-      "name": "Rare Horological Timepiece",
-      "description": "A rare and exquisite timepiece from a renowned watchmaker, a true gem for watch collectors.",
-      "estimatedValue": "€2500",
-      "active": true,
-      "birthdate": "1960-04-05",
-      "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timepiece.png?raw=true",
-      "condition": "Like New",
-      "hobbies": ["Watch Collecting", "Horology Enthusiast"],
-      "seller": {
-        "_id": 693158,
-        "name": "Robert Carter",
-        "isVerified": true,
-        "rating": 4.9,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  },
-  {
-    "_id": 9536782410,
-    "eventName": "Numismatic Narratives Auction",
-    "startDate": "2024-03-22T09:00:00",
-    "endDate": "2024-03-28T17:00:00",
-    "currentHighestBid": "€400",
-    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/numismatic_narratives_auction.jpg?raw=true",
-    "description": "Delve into the fascinating world of numismatics and history with this auction, showcasing a rare collection of coins from different historical periods.",
-    "item": {
-      "_id": 893152,
-      "name": "Rare Coin Collection",
-      "description": "A collection of rare coins from different historical periods.",
-      "estimatedValue": "€1250",
-      "active": true,
-      "birthdate": "1850-11-30",
-      "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
-      "condition": "Excellent",
-      "hobbies": ["Numismatics", "History Enthusiast"],
-      "seller": {
-        "_id": 159843,
-        "name": "Margaret Wilson",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/"
-      }
-    }
-  }] 
+    {
+        "eventName": "Timeless Treasures Auction",
+        "startDate": "2024-03-10T09:00:00",
+        "endDate": "2024-03-15T17:00:00",
+        "currentHighestBid": "€500",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "An exclusive event for collectors and horology enthusiasts, featuring rare and valuable antiques.",
+        "item": {
+            "name": "Antique Pocket Watch",
+            "description": "A rare find, this pocket watch dates back to the 19th century.",
+            "estimatedValue": "€1665",
+            "active": true,
+            "birthdate": "1874-05-15",
+            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/pocket_watch.jpg?raw=true",
+            "condition": "Good",
+            "hobbies": ["Collecting Antiques", "Horology"],
+            "seller": {
+                "name": "Victoria Cunningham",
+                "isVerified": true,
+                "rating": 4.7,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Majestic Canvas Auction",
+        "startDate": "2024-03-12T10:00:00",
+        "endDate": "2024-03-18T18:00:00",
+        "currentHighestBid": "€1200",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "A must-attend for art lovers and collectors, showcasing breathtaking masterpieces and original artworks.",
+        "item": {
+            "name": "Original Oil Painting",
+            "description": "A breathtaking landscape masterpiece by a renowned artist.",
+            "estimatedValue": "€4165",
+            "active": true,
+            "birthdate": "2004-10-10",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
+            "condition": "Excellent",
+            "category": "Art",
+            "seller": {
+                "name": "Francisco Rodriguez",
+                "isVerified": true,
+                "rating": 4.9,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Vintage Vinyl Vibes Auction",
+        "startDate": "2024-03-14T12:00:00",
+        "endDate": "2024-03-20T20:00:00",
+        "currentHighestBid": "€300",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "A unique event for music enthusiasts and collectors of vintage vinyl records.",
+        "item": {
+            "name": "Classic Vinyl Record Collection",
+            "description": "A curated collection of vintage vinyl records spanning various genres.",
+            "estimatedValue": "€833",
+            "active": true,
+            "birthdate": "1982-07-01",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
+            "condition": "Very Good",
+            "hobbies": ["Music Enthusiast", "Collecting Vinyl Records"],
+            "seller": {
+                "name": "David Thompson",
+                "isVerified": true,
+                "rating": 4.6,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Scripted Elegance Auction",
+        "startDate": "2024-03-16T09:00:00",
+        "endDate": "2024-03-22T17:00:00",
+        "currentHighestBid": "€250",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "An auction dedicated to those who appreciate the art of writing and collect vintage fountain pens.",
+        "item": {
+            "name": "Vintage Fountain Pen Set",
+            "description": "An elegant set of fountain pens crafted with precision.",
+            "estimatedValue": "€666",
+            "active": true,
+            "birthdate": "1940-03-20",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
+            "condition": "Like New",
+            "hobbies": ["Writing", "Collecting Fountain Pens"],
+            "seller": {
+                "name": "Emily Chang",
+                "isVerified": true,
+                "rating": 4.8,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Numismatic Narratives Auction",
+        "startDate": "2024-03-18T10:00:00",
+        "endDate": "2024-03-24T18:00:00",
+        "currentHighestBid": "€600",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "Explore and bid on a remarkable collection for numismatics and history enthusiasts.",
+        "item": {
+            "name": "Rare Coin Collection",
+            "description": "A collection of rare coins from different historical periods.",
+            "estimatedValue": "€1250",
+            "active": true,
+            "birthdate": "1924-11-30",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+            "condition": "Excellent",
+            "hobbies": ["Numismatics", "History Enthusiast"],
+            "seller": {
+                "name": "Thomas Johnson",
+                "isVerified": true,
+                "rating": 4.7,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Captured Memories Auction",
+        "startDate": "2024-03-20T12:00:00",
+        "endDate": "2024-03-26T20:00:00",
+        "currentHighestBid": "€150",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/captured_memories_auction.jpg?raw=true",
+        "description": "Dive into the nostalgia of vintage photography with this captivating auction, perfect for photography enthusiasts and collectors of vintage technology.",
+        "item": {
+            "name": "Vintage Polaroid Camera",
+            "description": "Capture memories with style using this classic Polaroid camera.",
+            "estimatedValue": "€333",
+            "active": true,
+            "birthdate": "1974-09-05",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/polaroid_camera.jpg",
+            "condition": "Good",
+            "hobbies": ["Photography", "Vintage Technology"],
+            "seller": {
+                "name": "Sophia Martinez",
+                "isVerified": true,
+                "rating": 4.5,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Ancient Relics Rendezvous Auction",
+        "startDate": "2024-03-22T09:00:00",
+        "endDate": "2024-03-28T17:00:00",
+        "currentHighestBid": "€400",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
+        "description": "Embark on a journey through time and history with this auction, tailored for archaeology enthusiasts and history buffs.",
+        "item": {
+            "name": "Ancient Artifact Replica",
+            "description": "A meticulously crafted replica of an ancient artifact.",
+            "estimatedValue": "€250",
+            "active": true,
+            "birthdate": "2014-02-14",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
+            "condition": "Very Good",
+            "hobbies": ["Archaeology Enthusiast", "History Buff"],
+            "seller": {
+                "name": "Ethan Walker",
+                "isVerified": true,
+                "rating": 4.6,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Vintage Elegance Auction",
+        "startDate": "2024-03-25T09:00:00",
+        "endDate": "2024-03-30T17:00:00",
+        "currentHighestBid": "€800",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/vintage_elegance_auction.jpg?raw=true",
+        "description": "Step into the world of vintage fashion and historical reenactment with this elegant auction, featuring exquisite Victorian lace parasols.",
+        "item": {
+            "name": "Victorian Lace Parasol",
+            "description": "An exquisite Victorian lace parasol, perfect for vintage fashion enthusiasts.",
+            "estimatedValue": "€500",
+            "active": true,
+            "birthdate": "1890-08-20",
+            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/parasol.png?raw=true",
+            "condition": "Excellent",
+            "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
+            "seller": {
+                "name": "Isabella Thompson",
+                "isVerified": true,
+                "rating": 4.8,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Timeless Timepieces Auction",
+        "startDate": "2024-03-28T10:00:00",
+        "endDate": "2024-04-03T18:00:00",
+        "currentHighestBid": "€1200",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timeless_timepieces_auction.jpg?raw=true",
+        "description": "Discover timeless elegance and precision craftsmanship in this auction, tailored for watch collectors and horology enthusiasts.",
+        "item": {
+            "name": "Rare Horological Timepiece",
+            "description": "A rare and exquisite timepiece from a renowned watchmaker, a true gem for watch collectors.",
+            "estimatedValue": "€2500",
+            "active": true,
+            "birthdate": "1960-04-05",
+            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timepiece.png?raw=true",
+            "condition": "Like New",
+            "hobbies": ["Watch Collecting", "Horology Enthusiast"],
+            "seller": {
+                "name": "Robert Carter",
+                "isVerified": true,
+                "rating": 4.9,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    },
+    {
+        "eventName": "Numismatic Narratives Auction",
+        "startDate": "2024-03-22T09:00:00",
+        "endDate": "2024-03-28T17:00:00",
+        "currentHighestBid": "€400",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/numismatic_narratives_auction.jpg?raw=true",
+        "description": "Delve into the fascinating world of numismatics and history with this auction, showcasing a rare collection of coins from different historical periods.",
+        "item": {
+            "name": "Rare Coin Collection",
+            "description": "A collection of rare coins from different historical periods.",
+            "estimatedValue": "€1250",
+            "active": true,
+            "birthdate": "1850-11-30",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+            "condition": "Excellent",
+            "hobbies": ["Numismatics", "History Enthusiast"],
+            "seller": {
+                "name": "Margaret Wilson",
+                "isVerified": true,
+                "rating": 4.7,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+            }
+        }
+    }]
