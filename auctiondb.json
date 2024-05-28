@@ -263,7 +263,6 @@
       "seller": {
         "_id": 159843,
         "name": "Margaret Wilson",
-        "isVerified,
         "isVerified": true,
         "rating": 4.7,
         "profilePictureUrl": "https://thispersondoesnotexist.com/"
