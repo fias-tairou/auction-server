@@ -5,7 +5,7 @@
     "startDate": "2024-03-10T09:00:00",
     "endDate": "2024-03-15T17:00:00",
     "currentHighestBid": "€500",
-    "eventImageUrl": "https://picsum.photos/200/300",
+    "imageUrl": "https://picsum.photos/200/300",
     "description": "An exclusive event for collectors and horology enthusiasts, featuring rare and valuable antiques.",
     "item": {
       "_id": 275346,
@@ -32,7 +32,7 @@
     "startDate": "2024-03-12T10:00:00",
     "endDate": "2024-03-18T18:00:00",
     "currentHighestBid": "€1200",
-    "eventImageUrl": "https://picsum.photos/200/300",
+    "imageUrl": "https://picsum.photos/200/300",
     "description": "A must-attend for art lovers and collectors, showcasing breathtaking masterpieces and original artworks.",
     "item": {
       "_id": 386451,
@@ -59,7 +59,7 @@
     "startDate": "2024-03-14T12:00:00",
     "endDate": "2024-03-20T20:00:00",
     "currentHighestBid": "€300",
-    "eventImageUrl": "https://picsum.photos/200/300",
+    "imageUrl": "https://picsum.photos/200/300",
     "description": "A unique event for music enthusiasts and collectors of vintage vinyl records.",
     "item": {
       "_id": 543267,
@@ -86,7 +86,7 @@
     "startDate": "2024-03-16T09:00:00",
     "endDate": "2024-03-22T17:00:00",
     "currentHighestBid": "€250",
-    "eventImageUrl": "https://picsum.photos/200/300",
+    "imageUrl": "https://picsum.photos/200/300",
     "description": "An auction dedicated to those who appreciate the art of writing and collect vintage fountain pens.",
     "item": {
       "_id": 123589,
@@ -113,7 +113,7 @@
     "startDate": "2024-03-18T10:00:00",
     "endDate": "2024-03-24T18:00:00",
     "currentHighestBid": "€600",
-    "eventImageUrl": "https://picsum.photos/200/300",
+    "imageUrl": "https://picsum.photos/200/300",
     "description": "Explore and bid on a remarkable collection for numismatics and history enthusiasts.",
     "item": {
       "_id": 543729,
@@ -140,7 +140,7 @@
     "startDate": "2024-03-20T12:00:00",
     "endDate": "2024-03-26T20:00:00",
     "currentHighestBid": "€150",
-    "eventImageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/captured_memories_auction.jpg?raw=true",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/captured_memories_auction.jpg?raw=true",
     "description": "Dive into the nostalgia of vintage photography with this captivating auction, perfect for photography enthusiasts and collectors of vintage technology.",
     "item": {
       "_id": 362891,
@@ -167,7 +167,7 @@
     "startDate": "2024-03-22T09:00:00",
     "endDate": "2024-03-28T17:00:00",
     "currentHighestBid": "€400",
-    "eventImageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
     "description": "Embark on a journey through time and history with this auction, tailored for archaeology enthusiasts and history buffs.",
     "item": {
       "_id": 297564,
@@ -194,7 +194,7 @@
     "startDate": "2024-03-25T09:00:00",
     "endDate": "2024-03-30T17:00:00",
     "currentHighestBid": "€800",
-    "eventImageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/vintage_elegance_auction.jpg?raw=true",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/vintage_elegance_auction.jpg?raw=true",
     "description": "Step into the world of vintage fashion and historical reenactment with this elegant auction, featuring exquisite Victorian lace parasols.",
     "item": {
       "_id": 832541,
@@ -221,7 +221,7 @@
     "startDate": "2024-03-28T10:00:00",
     "endDate": "2024-04-03T18:00:00",
     "currentHighestBid": "€1200",
-    "eventImageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timeless_timepieces_auction.jpg?raw=true",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timeless_timepieces_auction.jpg?raw=true",
     "description": "Discover timeless elegance and precision craftsmanship in this auction, tailored for watch collectors and horology enthusiasts.",
     "item": {
       "_id": 492657,
@@ -248,7 +248,7 @@
     "startDate": "2024-03-22T09:00:00",
     "endDate": "2024-03-28T17:00:00",
     "currentHighestBid": "€400",
-    "eventImageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/numismatic_narratives_auction.jpg?raw=true",
+    "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/numismatic_narratives_auction.jpg?raw=true",
     "description": "Delve into the fascinating world of numismatics and history with this auction, showcasing a rare collection of coins from different historical periods.",
     "item": {
       "_id": 893152,
