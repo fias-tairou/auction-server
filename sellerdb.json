@@ -1,72 +1,72 @@
 [
   {
-    "id": 101,
+    "_id": 168730,
     "name": "Victoria Cunningham",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.7,
-    "profile_picture_url": "https://example.com/seller1.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 102,
+    "_id": 934786,
     "name": "Francisco Rodriguez",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.9,
-    "profile_picture_url": "https://example.com/seller2.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 103,
+    "_id": 365219,
     "name": "David Thompson",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.6,
-    "profile_picture_url": "https://example.com/seller3.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 104,
+    "_id": 189743,
     "name": "Emily Chang",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.8,
-    "profile_picture_url": "https://example.com/seller4.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 105,
+    "_id": 894752,
     "name": "Thomas Johnson",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.7,
-    "profile_picture_url": "https://example.com/seller5.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 106,
+    "_id": 975362,
     "name": "Sophia Martinez",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.5,
-    "profile_picture_url": "https://example.com/seller6.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 107,
+    "_id": 578924,
     "name": "Ethan Walker",
-    "is_verified": true,
+    "isVerified": true,
     "rating": 4.6,
-    "profile_picture_url": "https://example.com/seller7.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 108,
-    "name": "Olivia Baker",
-    "is_verified": true,
+    "_id": 378924,
+    "name": "Isabella Thompson",
+    "isVerified": true,
     "rating": 4.8,
-    "profile_picture_url": "https://example.com/seller8.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 109,
-    "name": "Matthew Turner",
-    "is_verified": true,
+    "_id": 693158,
+    "name": "Robert Carter",
+    "isVerified": true,
     "rating": 4.9,
-    "profile_picture_url": "https://example.com/seller9.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   },
   {
-    "id": 110,
-    "name": "Emma White",
-    "is_verified": true,
+    "_id": 159843,
+    "name": "Margaret Wilson",
+    "isVerified": true,
     "rating": 4.7,
-    "profile_picture_url": "https://example.com/seller10.jpg"
+    "profilePictureUrl": "https://thispersondoesnotexist.com/"
   }
 ]
