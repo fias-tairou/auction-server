@@ -1,92 +1,218 @@
 [
     {
-        "name": "Victoria Cunningham",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "victoria.cunningham@example.com",
-        "phone": "+44 20 7946 0958",
-        "mobile": "+44 7700 900857"
+        "eventName": "Timeless Treasures Auction",
+        "startDate": "2024-03-10T09:00:00",
+        "endDate": "2024-03-15T17:00:00",
+        "currentHighestBid": "€500",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "An exclusive event for collectors and horology enthusiasts, featuring rare and valuable antiques.",
+        "item": {
+            "name": "Antique Pocket Watch",
+            "description": "A rare find, this pocket watch dates back to the 19th century.",
+            "estimatedValue": "€1665",
+            "active": true,
+            "birthdate": "1874-05-15",
+            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/pocket_watch.jpg?raw=true",
+            "condition": "Good",
+            "hobbies": ["Collecting Antiques", "Horology"],
+            "seller": {
+                "name": "Victoria Cunningham",
+                "isVerified": true,
+                "rating": 4.7,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "victoria.cunningham@example.com",
+                "phone": "+44 20 7946 0958",
+                "mobile": "+44 7700 900857"
+            }
+        }
     },
     {
-        "name": "Francisco Rodriguez",
-        "isVerified": true,
-        "rating": 4.9,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "francisco.rodriguez@example.com",
-        "phone": "+34 91 123 4567",
-        "mobile": "+34 650 123 456"
+        "eventName": "Majestic Canvas Auction",
+        "startDate": "2024-03-12T10:00:00",
+        "endDate": "2024-03-18T18:00:00",
+        "currentHighestBid": "€1200",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "A must-attend for art lovers and collectors, showcasing breathtaking masterpieces and original artworks.",
+        "item": {
+            "name": "Original Oil Painting",
+            "description": "A breathtaking landscape masterpiece by a renowned artist.",
+            "estimatedValue": "€4165",
+            "active": true,
+            "birthdate": "2004-10-10",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/oil_painting.jpg",
+            "condition": "Excellent",
+            "category": "Art",
+            "seller": {
+                "name": "Francisco Rodriguez",
+                "isVerified": true,
+                "rating": 4.9,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "francisco.rodriguez@example.com",
+                "phone": "+34 91 123 4567",
+                "mobile": "+34 650 123 456"
+            }
+        }
     },
     {
-        "name": "David Thompson",
-        "isVerified": true,
-        "rating": 4.6,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "david.thompson@example.com",
-        "phone": "+1 212-555-0123",
-        "mobile": "+1 917-555-0123"
+        "eventName": "Vintage Vinyl Vibes Auction",
+        "startDate": "2024-03-14T12:00:00",
+        "endDate": "2024-03-20T20:00:00",
+        "currentHighestBid": "€300",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "A unique event for music enthusiasts and collectors of vintage vinyl records.",
+        "item": {
+            "name": "Classic Vinyl Record Collection",
+            "description": "A curated collection of vintage vinyl records spanning various genres.",
+            "estimatedValue": "€833",
+            "active": true,
+            "birthdate": "1982-07-01",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vinyl_collection.jpg",
+            "condition": "Very Good",
+            "hobbies": ["Music Enthusiast", "Collecting Vinyl Records"],
+            "seller": {
+                "name": "David Thompson",
+                "isVerified": true,
+                "rating": 4.6,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "david.thompson@example.com",
+                "phone": "+1 212-555-0123",
+                "mobile": "+1 917-555-0123"
+            }
+        }
     },
     {
-        "name": "Emily Chang",
-        "isVerified": true,
-        "rating": 4.8,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "emily.chang@example.com",
-        "phone": "+1 415-555-0198",
-        "mobile": "+1 415-555-0199"
+        "eventName": "Scripted Elegance Auction",
+        "startDate": "2024-03-16T09:00:00",
+        "endDate": "2024-03-22T17:00:00",
+        "currentHighestBid": "€250",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "An auction dedicated to those who appreciate the art of writing and collect vintage fountain pens.",
+        "item": {
+            "name": "Vintage Fountain Pen Set",
+            "description": "An elegant set of fountain pens crafted with precision.",
+            "estimatedValue": "€666",
+            "active": true,
+            "birthdate": "1940-03-20",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/fountain_pen_set.jpg",
+            "condition": "Like New",
+            "hobbies": ["Writing", "Collecting Fountain Pens"],
+            "seller": {
+                "name": "Emily Chang",
+                "isVerified": true,
+                "rating": 4.8,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "emily.chang@example.com",
+                "phone": "+1 415-555-0198",
+                "mobile": "+1 415-555-0199"
+            }
+        }
     },
     {
-        "name": "Thomas Johnson",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "thomas.johnson@example.com",
-        "phone": "+1 312-555-0147",
-        "mobile": "+1 773-555-0147"
+        "eventName": "Numismatic Narratives Auction",
+        "startDate": "2024-03-18T10:00:00",
+        "endDate": "2024-03-24T18:00:00",
+        "currentHighestBid": "€600",
+        "imageUrl": "https://picsum.photos/200/300",
+        "description": "Explore and bid on a remarkable collection for numismatics and history enthusiasts.",
+        "item": {
+            "name": "Rare Coin Collection",
+            "description": "A collection of rare coins from different historical periods.",
+            "estimatedValue": "€1250",
+            "active": true,
+            "birthdate": "1924-11-30",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
+            "condition": "Excellent",
+            "hobbies": ["Numismatics", "History Enthusiast"],
+            "seller": {
+                "name": "Thomas Johnson",
+                "isVerified": true,
+                "rating": 4.7,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "thomas.johnson@example.com",
+                "phone": "+1 312-555-0147",
+                "mobile": "+1 773-555-0147"
+            }
+        }
     },
     {
-        "name": "Sophia Martinez",
-        "isVerified": true,
-        "rating": 4.5,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "sophia.martinez@example.com",
-        "phone": "+1 213-555-0167",
-        "mobile": "+1 310-555-0167"
+        "eventName": "Captured Memories Auction",
+        "startDate": "2024-03-20T12:00:00",
+        "endDate": "2024-03-26T20:00:00",
+        "currentHighestBid": "€150",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/captured_memories_auction.jpg?raw=true",
+        "description": "Dive into the nostalgia of vintage photography with this captivating auction, perfect for photography enthusiasts and collectors of vintage technology.",
+        "item": {
+            "name": "Vintage Polaroid Camera",
+            "description": "Capture memories with style using this classic Polaroid camera.",
+            "estimatedValue": "€333",
+            "active": true,
+            "birthdate": "1974-09-05",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/polaroid_camera.jpg",
+            "condition": "Good",
+            "hobbies": ["Photography", "Vintage Technology"],
+            "seller": {
+                "name": "Sophia Martinez",
+                "isVerified": true,
+                "rating": 4.5,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "sophia.martinez@example.com",
+                "phone": "+1 213-555-0167",
+                "mobile": "+1 310-555-0167"
+            }
+        }
     },
     {
-        "name": "Ethan Walker",
-        "isVerified": true,
-        "rating": 4.6,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "ethan.walker@example.com",
-        "phone": "+44 20 7946 0958",
-        "mobile": "+44 7700 900857"
+        "eventName": "Ancient Relics Rendezvous Auction",
+        "startDate": "2024-03-22T09:00:00",
+        "endDate": "2024-03-28T17:00:00",
+        "currentHighestBid": "€900",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
+        "description": "Embark on a journey through time and discover the wonders of ancient artifacts in this unique auction event.",
+        "item": {
+            "name": "Egyptian Antiquities Collection",
+            "description": "Explore the mysteries of ancient Egypt with this collection of authentic artifacts.",
+            "estimatedValue": "€2500",
+            "active": true,
+            "birthdate": "1320 BC",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/egyptian_antiquities.jpg",
+            "condition": "Excellent",
+            "hobbies": ["Archaeology", "Ancient History"],
+            "seller": {
+                "name": "Isabella Smith",
+                "isVerified": true,
+                "rating": 4.9,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "isabella.smith@example.com",
+                "phone": "+44 20 7946 0959",
+                "mobile": "+44 7700 900858"
+            }
+        }
     },
     {
-        "name": "Isabella Thompson",
-        "isVerified": true,
-        "rating": 4.8,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "isabella.thompson@example.com",
-        "phone": "+1 212-555-0123",
-        "mobile": "+1 917-555-0123"
-    },
-    {
-        "name": "Robert Carter",
-        "isVerified": true,
-        "rating": 4.9,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "robert.carter@example.com",
-        "phone": "+1 312-555-0147",
-        "mobile": "+1 773-555-0147"
-    },
-    {
-        "name": "Margaret Wilson",
-        "isVerified": true,
-        "rating": 4.7,
-        "profilePictureUrl": "https://thispersondoesnotexist.com/",
-        "email": "margaret.wilson@example.com",
-        "phone": "+44 20 7946 0958",
-        "mobile": "+44 7700 900857"
+        "eventName": "Whimsical Wonders Auction",
+        "startDate": "2024-03-24T10:00:00",
+        "endDate": "2024-03-30T18:00:00",
+        "currentHighestBid": "€750",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/whimsical_wonders_auction.jpg?raw=true",
+        "description": "Indulge in a world of whimsy and magic with this auction featuring delightful and unique collectibles.",
+        "item": {
+            "name": "Vintage Toy Collection",
+            "description": "A nostalgic collection of vintage toys that will transport you back to your childhood.",
+            "estimatedValue": "€1250",
+            "active": true,
+            "birthdate": "1950-12-25",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vintage_toys.jpg",
+            "condition": "Good",
+            "hobbies": ["Toy Collecting", "Nostalgia"],
+            "seller": {
+                "name": "Liam Brown",
+                "isVerified": true,
+                "rating": 4.8,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "liam.brown@example.com",
+                "phone": "+1 646-555-0177",
+                "mobile": "+1 917-555-0178"
+            }
+        }
     }
 ]
