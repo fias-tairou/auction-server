@@ -19,7 +19,10 @@
                 "name": "Victoria Cunningham",
                 "isVerified": true,
                 "rating": 4.7,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "victoria.cunningham@example.com",
+                "phone": "+44 20 7946 0958",
+                "mobile": "+44 7700 900857"
             }
         }
     },
@@ -43,7 +46,10 @@
                 "name": "Francisco Rodriguez",
                 "isVerified": true,
                 "rating": 4.9,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "francisco.rodriguez@example.com",
+                "phone": "+34 91 123 4567",
+                "mobile": "+34 650 123 456"
             }
         }
     },
@@ -67,7 +73,10 @@
                 "name": "David Thompson",
                 "isVerified": true,
                 "rating": 4.6,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "david.thompson@example.com",
+                "phone": "+1 212-555-0123",
+                "mobile": "+1 917-555-0123"
             }
         }
     },
@@ -91,7 +100,10 @@
                 "name": "Emily Chang",
                 "isVerified": true,
                 "rating": 4.8,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "emily.chang@example.com",
+                "phone": "+1 415-555-0198",
+                "mobile": "+1 415-555-0199"
             }
         }
     },
@@ -115,7 +127,10 @@
                 "name": "Thomas Johnson",
                 "isVerified": true,
                 "rating": 4.7,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "thomas.johnson@example.com",
+                "phone": "+1 312-555-0147",
+                "mobile": "+1 773-555-0147"
             }
         }
     },
@@ -139,7 +154,10 @@
                 "name": "Sophia Martinez",
                 "isVerified": true,
                 "rating": 4.5,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "sophia.martinez@example.com",
+                "phone": "+1 213-555-0167",
+                "mobile": "+1 310-555-0167"
             }
         }
     },
@@ -147,95 +165,54 @@
         "eventName": "Ancient Relics Rendezvous Auction",
         "startDate": "2024-03-22T09:00:00",
         "endDate": "2024-03-28T17:00:00",
-        "currentHighestBid": "€400",
+        "currentHighestBid": "€900",
         "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/ancient_relics_rendezvous_auction.jpg?raw=true",
-        "description": "Embark on a journey through time and history with this auction, tailored for archaeology enthusiasts and history buffs.",
+        "description": "Embark on a journey through time and discover the wonders of ancient artifacts in this unique auction event.",
         "item": {
-            "name": "Ancient Artifact Replica",
-            "description": "A meticulously crafted replica of an ancient artifact.",
-            "estimatedValue": "€250",
-            "active": true,
-            "birthdate": "2014-02-14",
-            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/artifact_replica.jpg",
-            "condition": "Very Good",
-            "hobbies": ["Archaeology Enthusiast", "History Buff"],
-            "seller": {
-                "name": "Ethan Walker",
-                "isVerified": true,
-                "rating": 4.6,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
-            }
-        }
-    },
-    {
-        "eventName": "Vintage Elegance Auction",
-        "startDate": "2024-03-25T09:00:00",
-        "endDate": "2024-03-30T17:00:00",
-        "currentHighestBid": "€800",
-        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/vintage_elegance_auction.jpg?raw=true",
-        "description": "Step into the world of vintage fashion and historical reenactment with this elegant auction, featuring exquisite Victorian lace parasols.",
-        "item": {
-            "name": "Victorian Lace Parasol",
-            "description": "An exquisite Victorian lace parasol, perfect for vintage fashion enthusiasts.",
-            "estimatedValue": "€500",
-            "active": true,
-            "birthdate": "1890-08-20",
-            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/parasol.png?raw=true",
-            "condition": "Excellent",
-            "hobbies": ["Vintage Fashion Enthusiast", "Historical Reenactment"],
-            "seller": {
-                "name": "Isabella Thompson",
-                "isVerified": true,
-                "rating": 4.8,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
-            }
-        }
-    },
-    {
-        "eventName": "Timeless Timepieces Auction",
-        "startDate": "2024-03-28T10:00:00",
-        "endDate": "2024-04-03T18:00:00",
-        "currentHighestBid": "€1200",
-        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timeless_timepieces_auction.jpg?raw=true",
-        "description": "Discover timeless elegance and precision craftsmanship in this auction, tailored for watch collectors and horology enthusiasts.",
-        "item": {
-            "name": "Rare Horological Timepiece",
-            "description": "A rare and exquisite timepiece from a renowned watchmaker, a true gem for watch collectors.",
+            "name": "Egyptian Antiquities Collection",
+            "description": "Explore the mysteries of ancient Egypt with this collection of authentic artifacts.",
             "estimatedValue": "€2500",
             "active": true,
-            "birthdate": "1960-04-05",
-            "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/timepiece.png?raw=true",
-            "condition": "Like New",
-            "hobbies": ["Watch Collecting", "Horology Enthusiast"],
+            "birthdate": "1320 BC",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/egyptian_antiquities.jpg",
+            "condition": "Excellent",
+            "hobbies": ["Archaeology", "Ancient History"],
             "seller": {
-                "name": "Robert Carter",
+                "name": "Isabella Smith",
                 "isVerified": true,
                 "rating": 4.9,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "isabella.smith@example.com",
+                "phone": "+44 20 7946 0959",
+                "mobile": "+44 7700 900858"
             }
         }
     },
     {
-        "eventName": "Numismatic Narratives Auction",
-        "startDate": "2024-03-22T09:00:00",
-        "endDate": "2024-03-28T17:00:00",
-        "currentHighestBid": "€400",
-        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/numismatic_narratives_auction.jpg?raw=true",
-        "description": "Delve into the fascinating world of numismatics and history with this auction, showcasing a rare collection of coins from different historical periods.",
+        "eventName": "Whimsical Wonders Auction",
+        "startDate": "2024-03-24T10:00:00",
+        "endDate": "2024-03-30T18:00:00",
+        "currentHighestBid": "€750",
+        "imageUrl": "https://github.com/fias-tairou/auction-server/blob/main/images/whimsical_wonders_auction.jpg?raw=true",
+        "description": "Indulge in a world of whimsy and magic with this auction featuring delightful and unique collectibles.",
         "item": {
-            "name": "Rare Coin Collection",
-            "description": "A collection of rare coins from different historical periods.",
+            "name": "Vintage Toy Collection",
+            "description": "A nostalgic collection of vintage toys that will transport you back to your childhood.",
             "estimatedValue": "€1250",
             "active": true,
-            "birthdate": "1850-11-30",
-            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/coin_collection.jpg",
-            "condition": "Excellent",
-            "hobbies": ["Numismatics", "History Enthusiast"],
+            "birthdate": "1950-12-25",
+            "imageUrl": "https://raw.githubusercontent.com/fias-tairou/auction-server/main/images/vintage_toys.jpg",
+            "condition": "Good",
+            "hobbies": ["Toy Collecting", "Nostalgia"],
             "seller": {
-                "name": "Margaret Wilson",
+                "name": "Liam Brown",
                 "isVerified": true,
-                "rating": 4.7,
-                "profilePictureUrl": "https://thispersondoesnotexist.com/"
+                "rating": 4.8,
+                "profilePictureUrl": "https://thispersondoesnotexist.com/",
+                "email": "liam.brown@example.com",
+                "phone": "+1 646-555-0177",
+                "mobile": "+1 917-555-0178"
             }
         }
-    }]
+    }
+]
